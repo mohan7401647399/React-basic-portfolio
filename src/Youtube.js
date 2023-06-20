@@ -2,7 +2,6 @@ import React from 'react';
 import  ReactDOM  from 'react-dom';
 import {BrowserRouter as Router, Route, Link, Switch, NavLink} from 'react-router-dom';
 
-
 class youtube extends React.Component{
     constructor(){
     super()
